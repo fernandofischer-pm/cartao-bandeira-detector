@@ -92,7 +92,7 @@ Product Owner certificado PSPO I, com foco em soluções digitais para GRC e cib
 Apaixonado por tecnologia, aprendizado contínuo e uso estratégico de IA em produtos digitais  
 
 📍 São Paulo, SP  
-🔗 [linkedin.com/in/fernandofischer](https://www.linkedin.com/in/fernandofischer)
+🔗 [linkedin.com/in/fernandofischer](https://www.linkedin.com/in/fernando-fischer-1990)
 
 ---
 
