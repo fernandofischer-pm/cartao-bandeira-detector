@@ -1,5 +1,3 @@
-# 💳 Identificador de Bandeira de Cartão de Crédito
-
 <p align="center">
   <img src="./images/banner.png" alt="Identificador de Bandeira de Cartão de Crédito" width="800"/>
 </p>
