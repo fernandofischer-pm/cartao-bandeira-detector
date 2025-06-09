@@ -39,9 +39,13 @@ Este identificador de bandeiras de cartão permite, de forma simples e rápida, 
 ## 📁 Estrutura do Projeto
 
 ├── index.html # Estrutura da interface
+
 ├── style.css # Estilização visual
+
 ├── script.js # Lógica de identificação da bandeira
+
 ├── /images # (opcional) Capturas de tela do projeto
+
 └── README.md # Documentação do projeto
 
 ---
