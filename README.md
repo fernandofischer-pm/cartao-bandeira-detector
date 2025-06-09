@@ -1,5 +1,10 @@
 # 💳 Identificador de Bandeira de Cartão de Crédito
 
+<p align="center">
+  <img src="./images/banner.png" alt="Identificador de Bandeira de Cartão de Crédito" width="800"/>
+</p>
+
+
 Projeto desenvolvido como parte do Bootcamp **"IA e Cloud Computing com Azure"** da DIO, com o objetivo de aplicar o GitHub Copilot como ferramenta de apoio ao desenvolvimento front-end.
 
 Este identificador de bandeiras de cartão permite, de forma simples e rápida, reconhecer a operadora (Visa, MasterCard, Amex etc.) a partir do número inserido pelo usuário.
