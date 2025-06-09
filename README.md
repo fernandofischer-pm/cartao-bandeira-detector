@@ -96,12 +96,6 @@ Apaixonado por tecnologia, aprendizado contínuo e uso estratégico de IA em pro
 
 ---
 
-## 📷 Capturas de Tela (opcional)
-
-Crie uma pasta chamada `/images` e adicione screenshots aqui para mostrar o funcionamento do projeto visualmente.
-
----
-
 ## 📝 Licença
 
 Este projeto está sob licença MIT. Sinta-se à vontade para usar, melhorar ou compartilhar!
